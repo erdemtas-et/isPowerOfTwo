@@ -19,7 +19,7 @@ func isPowOfTwo(num : Int) {
 
 
 
-print(isPowOfTwo(num: 9))
-print(isPowOfTwo(num: 8))
+isPowOfTwo(num: 9) //false
+isPowOfTwo(num: 8) //true
 
 
